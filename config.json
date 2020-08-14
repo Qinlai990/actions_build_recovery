@@ -1,6 +1,6 @@
 {
-  "twrp_url": "https://gitlab.com/OrangeFox/infrastructure/dsite",
-  "twrp_branch": "master",
+  "twrp_url": "https://github.com/SKYHAWK-Recovery-Project/shrp_bootable_recovery",
+  "twrp_branch": "android-9.0",
   "git_username": "wwrrj",
   "git_email": "2858594753@qq.com",
   "use_own_dt": true,
